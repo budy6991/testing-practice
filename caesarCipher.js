@@ -8,6 +8,7 @@ function shift(n){
 	}
 }
 
+
 function caesarCipher(message){
     let result = "";
     message = message.toLowerCase();
